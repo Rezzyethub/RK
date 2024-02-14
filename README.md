@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tnails
  this is my first repository in Github Desktop
  ## this is a sub heading
@@ -17,3 +18,7 @@ funcation
 name = input("what is your name")
 console.log(name)
 ```
+=======
+# Rk
+ this is my first repository 
+>>>>>>> b554f2a3cd6d80b93b4b85075201437e4bfeef04
