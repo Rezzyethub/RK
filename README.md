@@ -21,4 +21,5 @@ console.log(name)
 =======
 # Rk
  this is my first repository 
+ type shii
 >>>>>>> b554f2a3cd6d80b93b4b85075201437e4bfeef04
